@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bbe51618.js",
+    "static/media/python.png": "/static/media/python.bc67cd33bac96385a80e.png",
+    "static/media/tidyverse.png": "/static/media/tidyverse.8f553afb152f7a30a14e.png",
+    "static/media/r.jpg": "/static/media/r.5a9a67a8defbe1bc7588.jpg",
+    "static/media/pytorch.png": "/static/media/pytorch.0c542d5564f655262f0f.png",
+    "index.html": "/index.html",
+    "main.bbe51618.js.map": "/static/js/main.bbe51618.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bbe51618.js"
+  ]
+}
