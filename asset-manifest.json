@@ -1,14 +1,23 @@
 {
   "files": {
-    "main.js": "/portfolio/static/js/main.664d9578.js",
+    "main.css": "/portfolio/static/css/main.500d1b25.css",
+    "main.js": "/portfolio/static/js/main.be7da766.js",
+    "static/media/book1.png": "/portfolio/static/media/book1.46c6b73e6f557a9eefab.png",
+    "static/media/book4.png": "/portfolio/static/media/book4.fdfcf868d12181c4a8cb.png",
+    "static/media/refrigerator.png": "/portfolio/static/media/refrigerator.53471eeb95e8d0a005b3.png",
     "static/media/python.png": "/portfolio/static/media/python.bc67cd33bac96385a80e.png",
+    "static/media/book2.jpg": "/portfolio/static/media/book2.eaabd21ab30661e28215.jpg",
+    "static/media/LG.png": "/portfolio/static/media/LG.929c758ac68b185ac106.png",
+    "static/media/book3.jpg": "/portfolio/static/media/book3.0020b0f7a450036fa6cb.jpg",
     "static/media/tidyverse.png": "/portfolio/static/media/tidyverse.8f553afb152f7a30a14e.png",
     "static/media/r.jpg": "/portfolio/static/media/r.5a9a67a8defbe1bc7588.jpg",
     "static/media/pytorch.png": "/portfolio/static/media/pytorch.0c542d5564f655262f0f.png",
     "index.html": "/portfolio/index.html",
-    "main.664d9578.js.map": "/portfolio/static/js/main.664d9578.js.map"
+    "main.500d1b25.css.map": "/portfolio/static/css/main.500d1b25.css.map",
+    "main.be7da766.js.map": "/portfolio/static/js/main.be7da766.js.map"
   },
   "entrypoints": [
-    "static/js/main.664d9578.js"
+    "static/css/main.500d1b25.css",
+    "static/js/main.be7da766.js"
   ]
 }
